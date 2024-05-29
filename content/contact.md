@@ -6,6 +6,22 @@ menu:
     weight: 90
 ---
 
+
 # Contact
 
-[Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.
+Feel free to reach out!
+
+**Name:** Laya Yalamanchili
+
+**University:** University of Pennsylvania  
+
+**Year:** Sophomore  
+
+**Email:** [layay@wharton.upenn.edu](mailto:layay@wharton.upenn.edu)  
+
+**Phone Number:** (512)-999-0841
+
+**GitHub Username:** [layayala](https://github.com/layayala)
+
+
+[Open an issue on GitHub](https://github.com/duriya-rehan/hugo-bootstrap-theme/issues/new).
