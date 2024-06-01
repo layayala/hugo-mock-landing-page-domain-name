@@ -24,4 +24,4 @@ Feel free to reach out!
 **GitHub Username:** [layayala](https://github.com/layayala)
 
 
-[Open an issue on GitHub](https://github.com/duriya-rehan/hugo-bootstrap-theme/issues/new).
+[Open an issue](https://github.com/layayala/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
